@@ -13,7 +13,6 @@ module Opts
 -- import qualified Data.List           as L
 -- import qualified Data.Text           as T
 import           Options.Applicative
-import           Options.Applicative.Text
 
 -- import           Arenae.Types
 
